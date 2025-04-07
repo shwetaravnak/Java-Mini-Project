@@ -1,2 +1,2 @@
 # Java-Mini-Project
-It is a Java Project built using netbeans and SQL.
+It is built using netbeans and SQL.
